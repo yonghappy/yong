@@ -1,0 +1,11 @@
+#top {
+position: relative;
+height: 35px;
+width: 100%;
+clear: both;
+background: url(images/BREeOKtdtS.png);
+background-repeat: repeat-x;
+}
+#menu {
+Display: none;
+}
